@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+
 # Edwin Flawless 
 [![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yesa_boss)](https://twitter.com/yesa_boss) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwin-djonorh-345b8794)](https://www.linkedin.com/in/edwin-djonorh-345b8794) 
 [![Gmail Badge](https://img.shields.io/badge/-edjonorh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edjonorh@gmail.com)](mailto:edjonorh@gmail.com)
