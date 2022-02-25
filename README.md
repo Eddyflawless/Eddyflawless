@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 💬 Ask me about: tech, memes, anime
-- ⚡ Languages: Nodejs, Php(Laravel), Python3, Golang
+- ⚡ Languages: Nodejs,Typescript,Php, Python3, Golang
 
 <!---
 Eddyflawless/Eddyflawless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
