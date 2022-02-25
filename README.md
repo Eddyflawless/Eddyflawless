@@ -9,12 +9,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-edjonorh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edjonorh@gmail.com)](mailto:edjonorh@gmail.com)
 
 - 👋 Hi, I’m @Eddyflawless, I'm a software engineer 👨‍💻 who is passionate about backend technologies, system design, tooling and automation.
-- 👀 I’m interested in ...
+- 👀 I’m interested in building cloud solutions and tools
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nodejs and Golang projects
 - 📫 How to reach me ...
 - 💬 Ask me about: tech, memes, anime
-- ⚡ Languages: Nodejs,Typescript,Php, Python3, Golang
+- ⚡ Languages: Nodejs,Typescript, Php, Python3, Golang
 
 <!---
 Eddyflawless/Eddyflawless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 <h4>Cloud</h4>
 <span>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" >
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" >
 </span>  
 
 <h4> Databases </h4>
@@ -48,13 +49,13 @@ You can click the Preview link to take a look at your changes.
 
 <h4>Languages</h4>
 <span>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" >
-   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
 </span>  
 
 <h4> Other Tools and Technologies </h4>
@@ -64,11 +65,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
