@@ -12,7 +12,7 @@
 - 👀 I’m interested in building cloud solutions and tools
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Nodejs and Golang projects
-- 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are so my favorite animes produced)
+- 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best animes produced 😅)
 - ⚡ Languages: Nodejs,Typescript, Php, Python3, Golang
 
 <!---
