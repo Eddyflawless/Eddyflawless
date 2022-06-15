@@ -14,6 +14,8 @@
 - 💞️ I’m looking to collaborate on Nodejs and Java projects
 - 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best animes produced 😅)
 - ⚡ Languages: Nodejs, Java, Php, Python
+- 🔨 Technologies / tools: Ansible, Terraform, Docker, Codepipleine, AWS, Cloudformation, Grafana , Prometheus, Sentry, Jira 
+
 
 Thanks for checking out my profile
 
