@@ -10,11 +10,11 @@
 
 - 👋 Hi, I’m @Eddyflawless, I'm a certified AWS Solutions Architect and software engineer 👨‍💻 who is passionate about distributed systems, cryptocurrencies, infrastructure, tooling and automation.
 - 👀 I’m interested in building cloud solutions and tools
-- 🌱 I’m currently learning Java, DevOps and DevSecOps
+- 🌱 I’m currently learning Java and DevOps
 - 💞️ I’m looking to collaborate on Nodejs and Java projects
 - 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best animes produced 😅)
 - ⚡ Languages: Nodejs, Java, Php, Python
-- 🔨 Technologies / tools: Ansible, Terraform, Docker, Codepipline, AWS, Cloudformation, Grafana , Prometheus, Sentry, Slack 
+- 🔨 Technologies / tools: Ansible, Terraform, Docker, Codepipline, AWS, Cloudformation, Sentry, Slack 
 
 
 Thanks for checking out my profile
