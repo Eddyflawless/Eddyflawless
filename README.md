@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on Nodejs and Go projects
 - 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best animes produced 😅)
 - ⚡ Languages: Nodejs, Golang, Php, Python
-- 🔨 Technologies / tools: Ansible, Terraform, Docker, Codepipline, AWS etc
+- 🔨 Technologies / tools: Ansible, Terraform, Kubernetes, Docker, Codepipline, AWS etc
 
 
 Thanks for checking out my profile
