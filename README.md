@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Golang ,DevOps and platform engineering.
 - 💞️ I’m looking to collaborate on Nodejs and Go projects
 - 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best anime produced 😅)
-- ⚡ Languages: Nodejs, Golang, Php, Python
+- ⚡ Languages: Nodejs, Typescript, Golang, Php, Python
 - 🔨 Technologies / tools: Ansible, Terraform, Kubernetes, Docker, Codepipline, AWS etc
 
 
