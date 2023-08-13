@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning Golang, DevOps and Distributed systems.
 - 💞️ I’m looking to collaborate on Nodejs and Go projects.
 - 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best anime made 😅)
-- ⚡ Languages: Nodejs, Typescript, Golang, Python, Php
-- 🔨 Technologies / tools: NestJs, Kubernetes, React, AWS, Terraform, Docker etc
+- ⚡ Languages: Nodejs, Typescript, Golang, Python
+- 🔨 Technologies / tools: NestJs, Kubernetes, AWS, React, Kafka, Redis, Postgres, Mongodb, Terraform, Docker etc
 
 
 Thanks for checking out my profile
