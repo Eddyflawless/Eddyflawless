@@ -10,9 +10,9 @@
 
 - 👋 Hi, I’m @Eddyflawless, I'm a certified AWS Solutions Architect and backend engineer 👨‍💻 who is passionate about distributed systems, cryptocurrencies, infrastructure, tooling and automation.
 - 👀 I’m interested in building cloud solutions and tools
-- 🌱 I’m currently learning Golang ,DevOps and platform engineering.
-- 💞️ I’m looking to collaborate on Nodejs and Go projects
-- 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best anime produced 😅)
+- 🌱 I’m currently learning Golang, DevOps and Distributed systems.
+- 💞️ I’m looking to collaborate on Nodejs and Go projects.
+- 💬 Ask me about: tech, anime (Honestly i think Shingeki no Kyojin , Jujutsu kaisen and Demon slayer are by far the best anime made 😅)
 - ⚡ Languages: Nodejs, Typescript, Golang, Python, Php
 - 🔨 Technologies / tools: NestJs, Kubernetes, React, AWS, Terraform, Docker etc
 
